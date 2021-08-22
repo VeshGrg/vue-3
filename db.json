@@ -8,7 +8,6 @@
              "location": "Pokhara",
              "date": "2021 August 22",
              "time": "13:00",
-             "petsAllowed": true,
              "organizer": "Vesh Gurung"
            },
          {
@@ -19,7 +18,6 @@
              "location": "Pokhara",
              "date": "2021 August 22",
              "time": "15:00",
-             "petsAllowed": true,
              "organizer": "Sajan Gurung"
            },
          {
@@ -30,7 +28,6 @@
              "location": "Pokhara",
              "date": "2021 August 22",
              "time": "2:00",
-             "petsAllowed": true,
              "organizer": "Sandesh Gurung"
            }
        ]
